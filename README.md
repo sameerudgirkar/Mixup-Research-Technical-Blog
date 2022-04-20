@@ -1,14 +1,8 @@
 # Mixup-Research-Technical-Blog
 ### PURPOSE: To cover and convert all technical aspects of the MIXUP research paper, into blog post which is simple and understandable for all readers.
-#### Original Paper : https://arxiv.org/pdf/1710.09412.pdf
 
 https://medium.com/@sameerudgirkar214/technical-blog-for-research-paper-mixup-beyond-empirical-risk-minimization-5d49b9de7d2e
 
-
-Technical Blog for research paper -‘MIXUP: BEYOND EMPIRICAL RISK MINIMIZATION’
-
-PURPOSE: To cover and convert all technical aspects of the MIXUP research paper, into blog post which is simple and understandable for all readers.
-Original Paper :  https://arxiv.org/pdf/1710.09412.pdf
 
 PREREQUISITES: 
 1.	Supervised Learning: In simple words , it is  the machine learning task of learning a function that maps an input to an output based on example input-output pairs. By learning a function, it means, it infers a function from labelled training data (ex. of data can be images, text, videos). Here labelling is nothing but some sort of tagging to the given data (ex: if an email is spam or not spam)
