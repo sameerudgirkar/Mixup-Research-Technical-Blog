@@ -1,5 +1,7 @@
 # Technical Blog for research paper -‘ Efficient Estimation of Word Representations in Vector Space’
 
+https://medium.com/@sameerudgirkar214/summary-on-efficient-estimation-of-word-representations-in-vector-space-6c11be9e2a77
+
 ### PURPOSE: To cover and convert all technical aspects of the WORD2VEC research paper, into blog post which is simple and understandable for all readers.
 ##### Original Paper :  https://arxiv.org/pdf/1301.3781.pdf
 
